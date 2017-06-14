@@ -5,3 +5,4 @@ print "by Teddy"
 print "mantep oi"
 
 #njsy
+#wew
