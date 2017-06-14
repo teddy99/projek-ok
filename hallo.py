@@ -7,3 +7,4 @@ print "mantep oi"
 #njsy
 #we
 #rip
+#genap bang
