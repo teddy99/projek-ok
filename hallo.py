@@ -8,3 +8,4 @@ print "mantep oi"
 #we
 #rip
 #genap bang
+#tambah
